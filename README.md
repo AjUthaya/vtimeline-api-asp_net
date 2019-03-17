@@ -81,12 +81,32 @@ VTimeline is a content management system that allows you to create a vertical fu
 
 ## Versioning
 
+We use git for versioning. For the versions available, see the [tags on this repository](https://github.com/AjUthaya/vtimeline-api-dotnet/tags).
+
+### Add new version tag
+
 1. Update the CHANGELOG file with a new section and the "Unreleased Changes" link with the new tag version
 
 2. Create a new tag `git tag X.X.X`
 
 3. Push the new tag to remote `git push origin --tags`
 
+### Remove version tag
+
+1. Remove tag `git tag -d X.X.X`
+
+2. Remove tag from remote `git push -d origin X.X.X`
+
 ## Built with
 
-- Coming soon
+### [ASP.NET MVC](https://dotnet.microsoft.com/apps/aspnet/mvc)
+
+The ASP MVC is a web application framework developed by Microsoft, which implements the model–view–controller pattern. It is open-source software, apart from the ASP Web Forms component which is proprietary.
+
+### [NuGet](https://www.nuget.org/)
+
+NuGet is a free and open-source package manager designed for the Microsoft development platform. Since its introduction in 2010, NuGet has evolved into a larger ecosystem of tools and services. Starting with Visual Studio 2012, NuGet comes pre-installed by default.
+
+### [Entity Framework](https://docs.microsoft.com/en-us/ef/)
+
+Entity Framework is an open-source ORM framework for .NET applications supported by Microsoft. It enables developers to work with data using objects of domain specific classes without focusing on the underlying database tables and columns where this data is stored.
