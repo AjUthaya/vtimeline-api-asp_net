@@ -50,13 +50,13 @@ Description, replace this text it is simply dummy text of the printing and types
 
 1. Coming soon
 
-## Application Architecture
+## Application
+
+### Architecture
 
 ![application_architecture](https://imgur.com/t9ZFuZz.png)
 
-## API
-
-### Responce structure
+### API Responce structure
 
 ```JS
 {
