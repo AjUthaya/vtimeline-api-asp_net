@@ -10,8 +10,6 @@ VTimeline is a content management system that allows you to create a vertical fu
 
 - [.NET Core](https://dotnet.microsoft.com/) - .NET Core is a free and open-source managed computer software framework for the Windows, Linux, and macOS operating systems.
 
-- [MySQL](https://www.mysql.com/) - MySQL is an open source relational database management system.
-
 - [Docker](https://www.docker.com/products/docker-desktop) - Docker is a computer program that performs operating-system-level virtualization, also known as "containerization".
 
 ### Repostories
