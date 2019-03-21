@@ -4,6 +4,8 @@
 # Configs
 ##########
 
+application.js
+application.json
 local.json
 local.js
 local.php
